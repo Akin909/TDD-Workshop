@@ -1,5 +1,5 @@
 TN:
-SF:/Users/A_nonymous/Desktop/Coding/FAC/week-2-Testing/vending-machine/test.js
+SF:/home/finn/fac/week2-testing/TDD-Workshop/test.js
 FN:15,(anonymous_1)
 FN:24,(anonymous_2)
 FN:30,(anonymous_3)
@@ -46,7 +46,7 @@ BRF:8
 BRH:6
 end_of_record
 TN:
-SF:/Users/A_nonymous/Desktop/Coding/FAC/week-2-Testing/vending-machine/index.js
+SF:/home/finn/fac/week2-testing/TDD-Workshop/index.js
 FN:1,getChange
 FN:6,(anonymous_2)
 FNF:2
